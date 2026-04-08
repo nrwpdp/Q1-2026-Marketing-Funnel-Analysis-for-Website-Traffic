@@ -32,3 +32,8 @@ Based on the Q1 2026 website purchase funnel analysis across funnel performance,
 **Key Recommendations:**
 - 
 
+
+## Dashboard
+The following dashboard allows stakeholders to explore the funnel by traffic source, region, user type, and device.
+![dashboard_screen]()
+> View dashboard in Tableau Public: [Website Purchase Funnel - Drop-Off Analysis](https://public.tableau.com/views/WebsitePurchaseFunnel-Drop-OffAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
