@@ -1,0 +1,7 @@
+stage_name,stage_sequence,stage_label
+awareness,1,Awareness / landing
+product_view,2,Product page view
+add_to_cart,3,Add to cart
+checkout,4,Checkout initiated
+payment,5,Payment entered
+purchase,6,Purchase complete
